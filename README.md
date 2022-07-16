@@ -2,11 +2,11 @@
 - [x] Finished
 
 ## Description
-This project was developed for Computer Technology subject @University of Coimbra, Informatics Engineering
-The goal of this project is to develop a solution for an existing problem with the help of Arduino Plataform. We develop a clock, called MedIKnow,whose main purpose is to remind people of the medication that need to take, as well as the exact time to take it.
+This project was developed for Computer Technology subject @University of Coimbra, Informatics Engineering.  
+The goal of this project was to conceptualize a solution for an existing problem with the help of an Arduino Plataform. We came up with the idea of a clock - **MedIKnow** - whose main purpose was to remind people of the medication they needed to take, as well as the exact time they had to do so.
 
 ## Notes
-- To know more about this project and its idea read the report that is inside of the folder docs.
+- To know more about this project and its details, read the report inside of the docs' folder.
 
 ![image](https://i.imgur.com/iN0duAu.png)<br>
 
